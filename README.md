@@ -16,4 +16,4 @@ As seguintes ferramentas foram usadas na construção do projeto.
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Preview
-![gofinances](https://user-images.githubusercontent.com/26713717/90691706-271eab00-e24a-11ea-9df4-0e8f63e53304.png)
+![gofinances_upload](https://user-images.githubusercontent.com/26713717/90692693-ec1d7700-e24b-11ea-9bc5-ffca558dd213.png)
